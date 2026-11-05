@@ -1,0 +1,189 @@
+{
+  "status": "PASS",
+  "run_time_utc": "2026-11-05T19:58:24.506905+00:00",
+  "tool": "validate_release.py with Python 3.14.0",
+  "files_checked": 28,
+  "errors": [],
+  "warnings": [],
+  "midi_files": [
+    {
+      "path": "midi/z6501-dark-cinematic-drones-opening/chord_pulse.mid",
+      "bytes": 784,
+      "sha256": "d0b7ee03bf67dd96348af54f61dcfb25a00e763cbee8ee0379a4154626437c11",
+      "errors": []
+    },
+    {
+      "path": "midi/z6501-dark-cinematic-drones-opening/counter_texture.mid",
+      "bytes": 134,
+      "sha256": "74445269be69f152773b9ef19a5a8155bd63c59d457f0e3e79a1d967d45ab323",
+      "errors": []
+    },
+    {
+      "path": "midi/z6501-dark-cinematic-drones-opening/drums.mid",
+      "bytes": 1042,
+      "sha256": "3eba09e4e23b1dd92e5b2ae22449b899192cd2522aed1a5597ed967b0d251874",
+      "errors": []
+    },
+    {
+      "path": "midi/z6501-dark-cinematic-drones-opening/principal_motif.mid",
+      "bytes": 491,
+      "sha256": "f67b814b3b825e03d592eebf5f6408b61b69248c2eae03a786e9f56baabd50cc",
+      "errors": []
+    },
+    {
+      "path": "midi/z6501-dark-cinematic-drones-opening/sub_bass.mid",
+      "bytes": 613,
+      "sha256": "0214e4db728eac0d7ef889bdb2f9bac97d1e1a595ccc9ce7e5427ed2dbf7df59",
+      "errors": []
+    },
+    {
+      "path": "midi/z6501-dark-cinematic-drones-opening/vocal_like_synth.mid",
+      "bytes": 104,
+      "sha256": "14f5531ccc52a2ee3b3d6e8cdf29177ca1e29c8f2cbeef7e3bca64859121d7c7",
+      "errors": []
+    },
+    {
+      "path": "midi/z6501-dark-cinematic-drones-opening/z6501-dark-cinematic-drones-opening-combined.mid",
+      "bytes": 3088,
+      "sha256": "8b5a6c45b909d75e1a8e5a3a5ce2c2c3c24b89f58e47d9ca4759ffe037654290",
+      "errors": []
+    },
+    {
+      "path": "midi/z6502-dark-cinematic-drones-variation/chord_pulse.mid",
+      "bytes": 784,
+      "sha256": "9a1567405a434dd745f11dc026718e1a3d3ead288b68e097257faab40bcf934e",
+      "errors": []
+    },
+    {
+      "path": "midi/z6502-dark-cinematic-drones-variation/counter_texture.mid",
+      "bytes": 134,
+      "sha256": "c1855c52fc30bcd614af0145c7c873673749bca8550b77800655f7cf6defec38",
+      "errors": []
+    },
+    {
+      "path": "midi/z6502-dark-cinematic-drones-variation/drums.mid",
+      "bytes": 1042,
+      "sha256": "3eba09e4e23b1dd92e5b2ae22449b899192cd2522aed1a5597ed967b0d251874",
+      "errors": []
+    },
+    {
+      "path": "midi/z6502-dark-cinematic-drones-variation/principal_motif.mid",
+      "bytes": 490,
+      "sha256": "6a7f4657d0aa0bd1e649ed48c2d63bbff74de0555cae5ba7172be60ab890f93c",
+      "errors": []
+    },
+    {
+      "path": "midi/z6502-dark-cinematic-drones-variation/sub_bass.mid",
+      "bytes": 613,
+      "sha256": "f3b15b0c54bf1e23aad14ff7619d8ba8f3e317854c620df9a31c9b105b92c91a",
+      "errors": []
+    },
+    {
+      "path": "midi/z6502-dark-cinematic-drones-variation/vocal_like_synth.mid",
+      "bytes": 104,
+      "sha256": "abe739e19f3f8e0e1058fe3ee3031f8f848d863017dec63d62afd6b7dbc24a9b",
+      "errors": []
+    },
+    {
+      "path": "midi/z6502-dark-cinematic-drones-variation/z6502-dark-cinematic-drones-variation-combined.mid",
+      "bytes": 3087,
+      "sha256": "bdaa0764859675cc96d1ffc6945e569ec2bf9562d785d82afd3b79ba08d5a642",
+      "errors": []
+    },
+    {
+      "path": "midi/z6503-dark-cinematic-drones-contrast/chord_pulse.mid",
+      "bytes": 784,
+      "sha256": "bf781674b1e7e3ddc5bbb57b35431cc7c89ca0e211c5af3b7728cb511ec75987",
+      "errors": []
+    },
+    {
+      "path": "midi/z6503-dark-cinematic-drones-contrast/counter_texture.mid",
+      "bytes": 134,
+      "sha256": "4432f6e965cd9769d1bd34fddb13f3db0c70cdb43c0527574f9561492525da2e",
+      "errors": []
+    },
+    {
+      "path": "midi/z6503-dark-cinematic-drones-contrast/drums.mid",
+      "bytes": 1042,
+      "sha256": "3eba09e4e23b1dd92e5b2ae22449b899192cd2522aed1a5597ed967b0d251874",
+      "errors": []
+    },
+    {
+      "path": "midi/z6503-dark-cinematic-drones-contrast/principal_motif.mid",
+      "bytes": 470,
+      "sha256": "d3dd1d49ed555d5cc02f8ea13bb066c4d08d84fe13d28a05a55c928ae9bb920e",
+      "errors": []
+    },
+    {
+      "path": "midi/z6503-dark-cinematic-drones-contrast/sub_bass.mid",
+      "bytes": 613,
+      "sha256": "0d635a8319816933b17178184ea2c56d99aa4aacc89a29a26e7c749c09f81cdb",
+      "errors": []
+    },
+    {
+      "path": "midi/z6503-dark-cinematic-drones-contrast/vocal_like_synth.mid",
+      "bytes": 104,
+      "sha256": "07e1eda764eae547b8ba6a3c606494d4150d5d3436fc9acbd70c501fa557fdda",
+      "errors": []
+    },
+    {
+      "path": "midi/z6503-dark-cinematic-drones-contrast/z6503-dark-cinematic-drones-contrast-combined.mid",
+      "bytes": 3067,
+      "sha256": "2633818223f84d1c38c827cdbbb64ac3fcf5324c9750480ef6be189600ea711c",
+      "errors": []
+    },
+    {
+      "path": "midi/z6504-dark-cinematic-drones-return/chord_pulse.mid",
+      "bytes": 784,
+      "sha256": "a06f56b8f3f71b5960ad5b7ab2c5780fc1db85969c1ccf3151e5dd56c2cd47ae",
+      "errors": []
+    },
+    {
+      "path": "midi/z6504-dark-cinematic-drones-return/counter_texture.mid",
+      "bytes": 134,
+      "sha256": "ea67c67733279a0d44b570762594c29ed5842dad942ab8cb426c42bbedc4522f",
+      "errors": []
+    },
+    {
+      "path": "midi/z6504-dark-cinematic-drones-return/drums.mid",
+      "bytes": 1042,
+      "sha256": "3eba09e4e23b1dd92e5b2ae22449b899192cd2522aed1a5597ed967b0d251874",
+      "errors": []
+    },
+    {
+      "path": "midi/z6504-dark-cinematic-drones-return/principal_motif.mid",
+      "bytes": 470,
+      "sha256": "d2f114fe2170a031ece169585001d97011af5b40c22f4293649ad4271f441351",
+      "errors": []
+    },
+    {
+      "path": "midi/z6504-dark-cinematic-drones-return/sub_bass.mid",
+      "bytes": 613,
+      "sha256": "bfed4f0aa17c8ac5b446a7ca52ede0ced1689ed5b4ce396ab7aec6b30860e4d4",
+      "errors": []
+    },
+    {
+      "path": "midi/z6504-dark-cinematic-drones-return/vocal_like_synth.mid",
+      "bytes": 104,
+      "sha256": "ce20ddf597092642c21a9294b2db07845245542f0fd4c74aefe0252bd8138e4c",
+      "errors": []
+    },
+    {
+      "path": "midi/z6504-dark-cinematic-drones-return/z6504-dark-cinematic-drones-return-combined.mid",
+      "bytes": 3067,
+      "sha256": "33b8b0a7b9b5762df9f433b774d19adcb1ac9b3867038f06c7d8797684e35fe3",
+      "errors": []
+    }
+  ],
+  "duplicate_review": [],
+  "negative_control": {
+    "path": "checks/fixtures/invalid-same-pitch-overlap.mid",
+    "expected_result": "rejected for same-pitch overlap",
+    "passed": true
+  },
+  "limitations": [
+    "Automated technical validation only.",
+    "Nobody auditioned these files.",
+    "Duplicate-motif review is bounded and not exhaustive copyright clearance."
+  ]
+}

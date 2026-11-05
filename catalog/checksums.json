@@ -1,0 +1,450 @@
+{
+  "algorithm": "SHA-256",
+  "files": [
+    {
+      "path": ".nojekyll",
+      "bytes": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "path": "art/cover-provenance.json",
+      "bytes": 266,
+      "sha256": "66ad99479f0e69c75988741a5ab6b86f1a4b18aa17a18129f7eb323ba8e55a39"
+    },
+    {
+      "path": "art/cover.svg",
+      "bytes": 1922,
+      "sha256": "33c01861d5c03db3f19f2d91fed68e50fc1b7b32818440d8d75397180ab321ae"
+    },
+    {
+      "path": "art/hero.jpg",
+      "bytes": 194631,
+      "sha256": "5b87a1afeb7c27cd9b29120961ebcddb18dd5d5ad6729121bed3c1ec133f485b"
+    },
+    {
+      "path": "art/illustration-source.png",
+      "bytes": 2203198,
+      "sha256": "bf0b73dda126d56927c7a17043e6f881b5687ac14b7a02b48aab0f3f8da3b8e5"
+    },
+    {
+      "path": "art/image-prompt.txt",
+      "bytes": 290,
+      "sha256": "0e9297ee34bcfb10c015e73a938f0f9f40259a4a95526a3b6d495f9464c26da6"
+    },
+    {
+      "path": "art/raster-provenance.json",
+      "bytes": 500,
+      "sha256": "1b45a7b5ef7c9d72568afe58de1295233da4b1d5ff778f7b425987b677dbb95c"
+    },
+    {
+      "path": "art/square.jpg",
+      "bytes": 193663,
+      "sha256": "56a610e458c1d7932403e972b9cbab2aed0fff89fd5ba9661b9994fe3425300d"
+    },
+    {
+      "path": "articles/medium-draft.md",
+      "bytes": 741,
+      "sha256": "0c5d4305cf42e20309e44c20e96380ab0f6e8e3a84728a8e2a64da9699772e2a"
+    },
+    {
+      "path": "articles/medium-paste.txt",
+      "bytes": 741,
+      "sha256": "0c5d4305cf42e20309e44c20e96380ab0f6e8e3a84728a8e2a64da9699772e2a"
+    },
+    {
+      "path": "catalog/clip-index.csv",
+      "bytes": 1820,
+      "sha256": "a2c859553bdede98f02b485fc784ac73611e9ae45b0d944cc754ced6e6f61fd3"
+    },
+    {
+      "path": "catalog/drum-map.csv",
+      "bytes": 158,
+      "sha256": "ee5949764a6e42171b113a12ed1b18e3cb7f97fdcf48a545348cb8fdaf611c5c"
+    },
+    {
+      "path": "catalog/harmonic-events.csv",
+      "bytes": 24758,
+      "sha256": "b0476066679159d61c32e82536abeb3358bd2a2c0af85fe8aad2945535071e7e"
+    },
+    {
+      "path": "catalog/note-events.csv",
+      "bytes": 48804,
+      "sha256": "8b6afbc53c9aa0ff47704d0c009eeec707ba1a4ba6c0a709b4a4938089414069"
+    },
+    {
+      "path": "catalog/patch-recipes.json",
+      "bytes": 1810,
+      "sha256": "80584fcd3db787802c3797409f4da4ac3b7179ec449a2829b7d85b2b349a6727"
+    },
+    {
+      "path": "catalog/release-spec.json",
+      "bytes": 2475,
+      "sha256": "dccb1245c2f339cde3cd16c2d72ea5a2a7250f73f26b144571e74ae4472fc920"
+    },
+    {
+      "path": "catalog/structural-regions.csv",
+      "bytes": 816,
+      "sha256": "2d9addcf701dcb8d471fab393d7c59fc3cfd8c3dfc66a6537aac30c9b15f8e0e"
+    },
+    {
+      "path": "catalog/study-index.csv",
+      "bytes": 1182,
+      "sha256": "a0d27c48fa79da2ecaeee8f9984dfa77f62d01b9e9fa78a8dc2e8ff69f571156"
+    },
+    {
+      "path": "checks/build-metadata.json",
+      "bytes": 381,
+      "sha256": "4a8848c61a8efef5897543cf369db1c7abb1e0f87afbcd3ac9bd628e2f9ee1a8"
+    },
+    {
+      "path": "checks/clip-validation.json",
+      "bytes": 309,
+      "sha256": "85425e84ad56b8ce2ee831fbea086f67539e9c2052c619055b1b8e99d8b9166e"
+    },
+    {
+      "path": "checks/fixtures/invalid-same-pitch-overlap.mid",
+      "bytes": 81,
+      "sha256": "d0efb85be87410f2f8f50b2c7aa1f3be52efea8c2f687e041e3aac74f905f147"
+    },
+    {
+      "path": "checks/media-validation.json",
+      "bytes": 462,
+      "sha256": "96e442960d4e4ecb459c3eacba4abcd2a1b70cf47cd25c33dd86f20d6da3cdd1"
+    },
+    {
+      "path": "clips/z6501-melody-01.mid",
+      "bytes": 121,
+      "sha256": "1008e234f7c0914087f19dd2658d04c6590d2fa890baf80de3459d979176cdf8"
+    },
+    {
+      "path": "clips/z6501-melody-02.mid",
+      "bytes": 121,
+      "sha256": "046338c4b796b6d979757745861d6bb0d02238418dec47483259ff4a36a27c01"
+    },
+    {
+      "path": "clips/z6501-melody-03.mid",
+      "bytes": 91,
+      "sha256": "b025c0025302c4147f4476a4d84a2e7576e7af8fd039c869a1a8034679fd1c58"
+    },
+    {
+      "path": "clips/z6501-melody-04.mid",
+      "bytes": 91,
+      "sha256": "8644241c3643cc72eb6ad5d6f6b6f2326acad49d0ecf0260e0034acdcad55ecd"
+    },
+    {
+      "path": "clips/z6502-melody-01.mid",
+      "bytes": 120,
+      "sha256": "f091e9e8eb4b9afe82d28edd18bc307d74dc6c03591b0b416bcaa58cca5911e9"
+    },
+    {
+      "path": "clips/z6502-melody-02.mid",
+      "bytes": 120,
+      "sha256": "d1a1fc8addc31c20d154da8a789c894fa83137c47bcb6323bb244c9fbc2758fe"
+    },
+    {
+      "path": "clips/z6502-melody-03.mid",
+      "bytes": 91,
+      "sha256": "1ce796601e0c04d7c27c1691775beb9f5c91d00d8987475a8001a8b71eafc4b2"
+    },
+    {
+      "path": "clips/z6502-melody-04.mid",
+      "bytes": 91,
+      "sha256": "b5a983a19fd8d02f0fe6717ce2ed270bac6b01b214bb9feffd878a7a7d290a09"
+    },
+    {
+      "path": "clips/z6503-melody-01.mid",
+      "bytes": 120,
+      "sha256": "3d0cb662865b3120a72e0b8815d9e81952f989523882dd727b12473f29132f92"
+    },
+    {
+      "path": "clips/z6503-melody-02.mid",
+      "bytes": 120,
+      "sha256": "36e414a49f2bdb891caf7b4dfafc26de18b1488358ed96198afddeb2341dbeee"
+    },
+    {
+      "path": "clips/z6503-melody-03.mid",
+      "bytes": 91,
+      "sha256": "e5c0ed9ba97bd5cc930993e61b94a470b6c9f55948628692ec8d767ff643bec8"
+    },
+    {
+      "path": "clips/z6503-melody-04.mid",
+      "bytes": 91,
+      "sha256": "6665ce5722a6f70c0739662ec4e947ef389de1ba963090d66424ac50fb1f8d28"
+    },
+    {
+      "path": "clips/z6504-melody-01.mid",
+      "bytes": 120,
+      "sha256": "642cd2381f555bceb88cd577650e8d5498cc1d953bf8da9af2796c0e19887f7f"
+    },
+    {
+      "path": "clips/z6504-melody-02.mid",
+      "bytes": 120,
+      "sha256": "b0cd112a26aef36578472a2c7e932f92b8976852a013456a61dbed0f43420349"
+    },
+    {
+      "path": "clips/z6504-melody-03.mid",
+      "bytes": 91,
+      "sha256": "02da07bf7471dc8bee56e1c520de0c83f3640dc62d248a6203233bffa9ea7a99"
+    },
+    {
+      "path": "clips/z6504-melody-04.mid",
+      "bytes": 91,
+      "sha256": "0dc2691905e6c07ebdcfd2527615ebf03369eede6af7d1116bf48e39ccc93a7e"
+    },
+    {
+      "path": "delivery.md",
+      "bytes": 427,
+      "sha256": "f3d01877cd75ae57552f6bf600afd72dd4c182c5545853a26042bfb61438e14c"
+    },
+    {
+      "path": "downloads/dark-cinematic-drones-midi.zip",
+      "bytes": 24350,
+      "sha256": "b806294eee8c571b041e1fa6301a32672dac63c7e52f7517ef9c80e4a29b1273"
+    },
+    {
+      "path": "film/motion-note-roll.png",
+      "bytes": 2232,
+      "sha256": "d0245c4ceefc683e894ed2f8a96ec8be01b26572ca26028d05815e7c8397d252"
+    },
+    {
+      "path": "film/motion-overlay.png",
+      "bytes": 34448,
+      "sha256": "cb9a6c65d13c122bf4b8c8aa5bdf5eb876b313b580acfbf2823b712ff6b68881"
+    },
+    {
+      "path": "film/poster.jpg",
+      "bytes": 165400,
+      "sha256": "e2171b4111f2d1cd8543cd2729a1b2326854175a964da8abeffbd7eb59a6612f"
+    },
+    {
+      "path": "film/preview.mp4",
+      "bytes": 640511,
+      "sha256": "3f2b3ac8d96859d10248d38b31524ce402f8ecb68b422016062b20a10a2d135f"
+    },
+    {
+      "path": "film/preview.vtt",
+      "bytes": 86,
+      "sha256": "66a3a5d04904c48ceef8c1eb6e0698d44a7ec9f80950e2cc21b7dc0f54c12fea"
+    },
+    {
+      "path": "film/video-manifest.json",
+      "bytes": 1217,
+      "sha256": "d6eae8d1dae21007986877a8cb4e96a09d67ec9fcf49362f9d6fecb806303e4f"
+    },
+    {
+      "path": "index.html",
+      "bytes": 9946,
+      "sha256": "8ad83cb595fa8ec5fb7611252a68043b6bfd50f788bf8a59ac16b031dede8c36"
+    },
+    {
+      "path": "midi/z6501-dark-cinematic-drones-opening/chord_pulse.mid",
+      "bytes": 784,
+      "sha256": "d0b7ee03bf67dd96348af54f61dcfb25a00e763cbee8ee0379a4154626437c11"
+    },
+    {
+      "path": "midi/z6501-dark-cinematic-drones-opening/counter_texture.mid",
+      "bytes": 134,
+      "sha256": "74445269be69f152773b9ef19a5a8155bd63c59d457f0e3e79a1d967d45ab323"
+    },
+    {
+      "path": "midi/z6501-dark-cinematic-drones-opening/drums.mid",
+      "bytes": 1042,
+      "sha256": "3eba09e4e23b1dd92e5b2ae22449b899192cd2522aed1a5597ed967b0d251874"
+    },
+    {
+      "path": "midi/z6501-dark-cinematic-drones-opening/principal_motif.mid",
+      "bytes": 491,
+      "sha256": "f67b814b3b825e03d592eebf5f6408b61b69248c2eae03a786e9f56baabd50cc"
+    },
+    {
+      "path": "midi/z6501-dark-cinematic-drones-opening/sub_bass.mid",
+      "bytes": 613,
+      "sha256": "0214e4db728eac0d7ef889bdb2f9bac97d1e1a595ccc9ce7e5427ed2dbf7df59"
+    },
+    {
+      "path": "midi/z6501-dark-cinematic-drones-opening/vocal_like_synth.mid",
+      "bytes": 104,
+      "sha256": "14f5531ccc52a2ee3b3d6e8cdf29177ca1e29c8f2cbeef7e3bca64859121d7c7"
+    },
+    {
+      "path": "midi/z6501-dark-cinematic-drones-opening/z6501-dark-cinematic-drones-opening-combined.mid",
+      "bytes": 3088,
+      "sha256": "8b5a6c45b909d75e1a8e5a3a5ce2c2c3c24b89f58e47d9ca4759ffe037654290"
+    },
+    {
+      "path": "midi/z6502-dark-cinematic-drones-variation/chord_pulse.mid",
+      "bytes": 784,
+      "sha256": "9a1567405a434dd745f11dc026718e1a3d3ead288b68e097257faab40bcf934e"
+    },
+    {
+      "path": "midi/z6502-dark-cinematic-drones-variation/counter_texture.mid",
+      "bytes": 134,
+      "sha256": "c1855c52fc30bcd614af0145c7c873673749bca8550b77800655f7cf6defec38"
+    },
+    {
+      "path": "midi/z6502-dark-cinematic-drones-variation/drums.mid",
+      "bytes": 1042,
+      "sha256": "3eba09e4e23b1dd92e5b2ae22449b899192cd2522aed1a5597ed967b0d251874"
+    },
+    {
+      "path": "midi/z6502-dark-cinematic-drones-variation/principal_motif.mid",
+      "bytes": 490,
+      "sha256": "6a7f4657d0aa0bd1e649ed48c2d63bbff74de0555cae5ba7172be60ab890f93c"
+    },
+    {
+      "path": "midi/z6502-dark-cinematic-drones-variation/sub_bass.mid",
+      "bytes": 613,
+      "sha256": "f3b15b0c54bf1e23aad14ff7619d8ba8f3e317854c620df9a31c9b105b92c91a"
+    },
+    {
+      "path": "midi/z6502-dark-cinematic-drones-variation/vocal_like_synth.mid",
+      "bytes": 104,
+      "sha256": "abe739e19f3f8e0e1058fe3ee3031f8f848d863017dec63d62afd6b7dbc24a9b"
+    },
+    {
+      "path": "midi/z6502-dark-cinematic-drones-variation/z6502-dark-cinematic-drones-variation-combined.mid",
+      "bytes": 3087,
+      "sha256": "bdaa0764859675cc96d1ffc6945e569ec2bf9562d785d82afd3b79ba08d5a642"
+    },
+    {
+      "path": "midi/z6503-dark-cinematic-drones-contrast/chord_pulse.mid",
+      "bytes": 784,
+      "sha256": "bf781674b1e7e3ddc5bbb57b35431cc7c89ca0e211c5af3b7728cb511ec75987"
+    },
+    {
+      "path": "midi/z6503-dark-cinematic-drones-contrast/counter_texture.mid",
+      "bytes": 134,
+      "sha256": "4432f6e965cd9769d1bd34fddb13f3db0c70cdb43c0527574f9561492525da2e"
+    },
+    {
+      "path": "midi/z6503-dark-cinematic-drones-contrast/drums.mid",
+      "bytes": 1042,
+      "sha256": "3eba09e4e23b1dd92e5b2ae22449b899192cd2522aed1a5597ed967b0d251874"
+    },
+    {
+      "path": "midi/z6503-dark-cinematic-drones-contrast/principal_motif.mid",
+      "bytes": 470,
+      "sha256": "d3dd1d49ed555d5cc02f8ea13bb066c4d08d84fe13d28a05a55c928ae9bb920e"
+    },
+    {
+      "path": "midi/z6503-dark-cinematic-drones-contrast/sub_bass.mid",
+      "bytes": 613,
+      "sha256": "0d635a8319816933b17178184ea2c56d99aa4aacc89a29a26e7c749c09f81cdb"
+    },
+    {
+      "path": "midi/z6503-dark-cinematic-drones-contrast/vocal_like_synth.mid",
+      "bytes": 104,
+      "sha256": "07e1eda764eae547b8ba6a3c606494d4150d5d3436fc9acbd70c501fa557fdda"
+    },
+    {
+      "path": "midi/z6503-dark-cinematic-drones-contrast/z6503-dark-cinematic-drones-contrast-combined.mid",
+      "bytes": 3067,
+      "sha256": "2633818223f84d1c38c827cdbbb64ac3fcf5324c9750480ef6be189600ea711c"
+    },
+    {
+      "path": "midi/z6504-dark-cinematic-drones-return/chord_pulse.mid",
+      "bytes": 784,
+      "sha256": "a06f56b8f3f71b5960ad5b7ab2c5780fc1db85969c1ccf3151e5dd56c2cd47ae"
+    },
+    {
+      "path": "midi/z6504-dark-cinematic-drones-return/counter_texture.mid",
+      "bytes": 134,
+      "sha256": "ea67c67733279a0d44b570762594c29ed5842dad942ab8cb426c42bbedc4522f"
+    },
+    {
+      "path": "midi/z6504-dark-cinematic-drones-return/drums.mid",
+      "bytes": 1042,
+      "sha256": "3eba09e4e23b1dd92e5b2ae22449b899192cd2522aed1a5597ed967b0d251874"
+    },
+    {
+      "path": "midi/z6504-dark-cinematic-drones-return/principal_motif.mid",
+      "bytes": 470,
+      "sha256": "d2f114fe2170a031ece169585001d97011af5b40c22f4293649ad4271f441351"
+    },
+    {
+      "path": "midi/z6504-dark-cinematic-drones-return/sub_bass.mid",
+      "bytes": 613,
+      "sha256": "bfed4f0aa17c8ac5b446a7ca52ede0ced1689ed5b4ce396ab7aec6b30860e4d4"
+    },
+    {
+      "path": "midi/z6504-dark-cinematic-drones-return/vocal_like_synth.mid",
+      "bytes": 104,
+      "sha256": "ce20ddf597092642c21a9294b2db07845245542f0fd4c74aefe0252bd8138e4c"
+    },
+    {
+      "path": "midi/z6504-dark-cinematic-drones-return/z6504-dark-cinematic-drones-return-combined.mid",
+      "bytes": 3067,
+      "sha256": "33b8b0a7b9b5762df9f433b774d19adcb1ac9b3867038f06c7d8797684e35fe3"
+    },
+    {
+      "path": "preview/dark-cinematic-drones-simple-synth-preview.mp3",
+      "bytes": 2573627,
+      "sha256": "142a7102b0d0930519eb224564668fab2e8a9e381815070001abec89182f3ea3"
+    },
+    {
+      "path": "preview/preview-manifest.json",
+      "bytes": 1174,
+      "sha256": "e4c3c389d056a70200f349686940d50547e5307c41c4423f526fca8f6fd6552b"
+    },
+    {
+      "path": "README.md",
+      "bytes": 3959,
+      "sha256": "06f1813afb7e24acac84fac4a6c14660bb2f75e8d76b3f4b759f4b9935385ab4"
+    },
+    {
+      "path": "social/instagram/caption.txt",
+      "bytes": 223,
+      "sha256": "624b75fd77d12692ba3548260457e558227f353453cbb5051e17845eda61ed22"
+    },
+    {
+      "path": "social/instagram/portrait.jpg",
+      "bytes": 193243,
+      "sha256": "e7a07a609f23ce513569a148ce157699479dcddd55068680c8856f4c67791f9b"
+    },
+    {
+      "path": "social/instagram/square.jpg",
+      "bytes": 175848,
+      "sha256": "3e115dab37c9cac1df8e20b348c64ea916f23913930db6138bebb68a42868700"
+    },
+    {
+      "path": "social/x/card.jpg",
+      "bytes": 175533,
+      "sha256": "18d6df814b1742755efff89ec7fecff7dbc2cf247a100341a5696b4b5bd9c9ae"
+    },
+    {
+      "path": "social/x/post.txt",
+      "bytes": 185,
+      "sha256": "48cfddb5b79e4081fd51bb53075bf511bcc9097cc121d7612bf881e9a7132dd1"
+    },
+    {
+      "path": "tools/build_footwork.py",
+      "bytes": 46932,
+      "sha256": "bcf2c82d909ad5b5b4afce885c34f9a2c2e799660d5c3cda80ec89beffa6f994"
+    },
+    {
+      "path": "tools/build_release.py",
+      "bytes": 147457,
+      "sha256": "97c986fb7994c8dd519b8f85696af96d32241a668111f4ffe4c3e2c241e1385c"
+    },
+    {
+      "path": "tools/polish_release.py",
+      "bytes": 7763,
+      "sha256": "b656e270626dcd22f2bff72dcc733516775299a975808bc7e674ca19c9a5219a"
+    },
+    {
+      "path": "tools/produce_clips.py",
+      "bytes": 13319,
+      "sha256": "4e0eb976386d0065e79f50e485ba602f009386ed6710d4cb0b84dfa0ec1bcc49"
+    },
+    {
+      "path": "tools/render_motion_preview.py",
+      "bytes": 7162,
+      "sha256": "e5269d02f53d5eb4c52d07826528ed8651ce8eea2a1d9ca495c440bb75e59791"
+    },
+    {
+      "path": "tools/validate_release.py",
+      "bytes": 13763,
+      "sha256": "c590a3c9e44249ddc1a2d14a048dea0f3e1ef0a232d3b86ea96a0f4eafeff6a5"
+    }
+  ]
+}

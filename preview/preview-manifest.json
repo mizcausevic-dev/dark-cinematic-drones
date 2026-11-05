@@ -1,0 +1,30 @@
+{
+  "label": "preview, not a master.",
+  "preview_path": "preview/dark-cinematic-drones-simple-synth-preview.mp3",
+  "preview_sha256": "142a7102b0d0930519eb224564668fab2e8a9e381815070001abec89182f3ea3",
+  "source_midi_path": "midi/z6501-dark-cinematic-drones-opening/z6501-dark-cinematic-drones-opening-combined.mid",
+  "source_midi_sha256": "8b5a6c45b909d75e1a8e5a3a5ce2c2c3c24b89f58e47d9ca4759ffe037654290",
+  "renderer": "release-simple-synth 1.0.0",
+  "renderer_configuration": {
+    "sample_rate": 44100,
+    "source_tracks": [
+      "chord_pulse",
+      "counter_texture",
+      "drums",
+      "principal_motif",
+      "sub_bass",
+      "vocal_like_synth"
+    ],
+    "processing": "Per-voice synthesis and envelopes; summed samples are clamped to +/-0.95, converted to 16-bit stereo PCM and encoded to 192 kb/s MP3."
+  },
+  "selection": {
+    "study": "z6501",
+    "start_seconds": 0,
+    "end_seconds": 106.667
+  },
+  "measurement": {
+    "sample_peak": 0.139578,
+    "not_lufs_or_true_peak": true
+  },
+  "limitations": "Automated generation and decode checks only. Nobody auditioned this simple-synthesis preview. It is not a finished-production sound or master."
+}

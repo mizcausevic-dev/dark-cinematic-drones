@@ -1,0 +1,26 @@
+{
+  "title": "Dark Cinematic Drones",
+  "study": "z6501",
+  "bpm": 72,
+  "source_audio": "preview/dark-cinematic-drones-simple-synth-preview.mp3",
+  "source_audio_sha256": "142a7102b0d0930519eb224564668fab2e8a9e381815070001abec89182f3ea3",
+  "source_midi": "midi/z6501-dark-cinematic-drones-opening/z6501-dark-cinematic-drones-opening-combined.mid",
+  "source_midi_sha256": "8b5a6c45b909d75e1a8e5a3a5ce2c2c3c24b89f58e47d9ca4759ffe037654290",
+  "source_events": "catalog/note-events.csv",
+  "source_events_sha256": "8b6afbc53c9aa0ff47704d0c009eeec707ba1a4ba6c0a709b4a4938089414069",
+  "art_source_file": "art/hero.jpg",
+  "art_source_sha256": "5b87a1afeb7c27cd9b29120961ebcddb18dd5d5ad6729121bed3c1ec133f485b",
+  "excerpt_start_seconds": 0,
+  "duration_seconds": 18.0,
+  "video": "film/preview.mp4",
+  "video_sha256": "3f2b3ac8d96859d10248d38b31524ce402f8ecb68b422016062b20a10a2d135f",
+  "caption": "film/preview.vtt",
+  "resolution": "960x540",
+  "fps": 15,
+  "visualization": "Scrolling note events from the selected score over a moving cover image",
+  "disclosure": "preview, not master",
+  "limitations": [
+    "Simple-synth rendering, not a recorded performance.",
+    "No human listening review recorded."
+  ]
+}
