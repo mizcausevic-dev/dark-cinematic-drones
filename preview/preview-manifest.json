@@ -1,9 +1,9 @@
 {
   "label": "preview, not a master.",
   "preview_path": "preview/dark-cinematic-drones-simple-synth-preview.mp3",
-  "preview_sha256": "142a7102b0d0930519eb224564668fab2e8a9e381815070001abec89182f3ea3",
+  "preview_sha256": "6f8f7f3d44d930729c199a96d8e99ed04d036947532aa4988013f42a474b50cc",
   "source_midi_path": "midi/z6501-dark-cinematic-drones-opening/z6501-dark-cinematic-drones-opening-combined.mid",
-  "source_midi_sha256": "8b5a6c45b909d75e1a8e5a3a5ce2c2c3c24b89f58e47d9ca4759ffe037654290",
+  "source_midi_sha256": "0935e0af75ba6a6ec7a68ca24233beaea6c997172523d0a14c1167af38eb62aa",
   "renderer": "release-simple-synth 1.0.0",
   "renderer_configuration": {
     "sample_rate": 44100,
@@ -23,7 +23,7 @@
     "end_seconds": 106.667
   },
   "measurement": {
-    "sample_peak": 0.139578,
+    "sample_peak": 0.154878,
     "not_lufs_or_true_peak": true
   },
   "limitations": "Automated generation and decode checks only. Nobody auditioned this simple-synthesis preview. It is not a finished-production sound or master."

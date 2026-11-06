@@ -1,6 +1,6 @@
 {
   "status": "PASS",
-  "run_time_utc": "2026-11-05T19:58:24.506905+00:00",
+  "run_time_utc": "2026-11-06T18:32:34.465281+00:00",
   "tool": "validate_release.py with Python 3.14.0",
   "files_checked": 28,
   "errors": [],
@@ -27,7 +27,7 @@
     {
       "path": "midi/z6501-dark-cinematic-drones-opening/principal_motif.mid",
       "bytes": 491,
-      "sha256": "f67b814b3b825e03d592eebf5f6408b61b69248c2eae03a786e9f56baabd50cc",
+      "sha256": "7e30f3f052bbe0eec811420441312b624601ab6865565f881e2d467ce3ede4b2",
       "errors": []
     },
     {
@@ -45,7 +45,7 @@
     {
       "path": "midi/z6501-dark-cinematic-drones-opening/z6501-dark-cinematic-drones-opening-combined.mid",
       "bytes": 3088,
-      "sha256": "8b5a6c45b909d75e1a8e5a3a5ce2c2c3c24b89f58e47d9ca4759ffe037654290",
+      "sha256": "0935e0af75ba6a6ec7a68ca24233beaea6c997172523d0a14c1167af38eb62aa",
       "errors": []
     },
     {
@@ -68,8 +68,8 @@
     },
     {
       "path": "midi/z6502-dark-cinematic-drones-variation/principal_motif.mid",
-      "bytes": 490,
-      "sha256": "6a7f4657d0aa0bd1e649ed48c2d63bbff74de0555cae5ba7172be60ab890f93c",
+      "bytes": 491,
+      "sha256": "812499bcdef561f2a517ccd762113b658ba08098fd917caabb475b9db33d299f",
       "errors": []
     },
     {
@@ -86,8 +86,8 @@
     },
     {
       "path": "midi/z6502-dark-cinematic-drones-variation/z6502-dark-cinematic-drones-variation-combined.mid",
-      "bytes": 3087,
-      "sha256": "bdaa0764859675cc96d1ffc6945e569ec2bf9562d785d82afd3b79ba08d5a642",
+      "bytes": 3088,
+      "sha256": "684fe314def2bfd86ac58169936672d6b1f6de05a78ab5581765c8d76a7cd3db",
       "errors": []
     },
     {
@@ -111,7 +111,7 @@
     {
       "path": "midi/z6503-dark-cinematic-drones-contrast/principal_motif.mid",
       "bytes": 470,
-      "sha256": "d3dd1d49ed555d5cc02f8ea13bb066c4d08d84fe13d28a05a55c928ae9bb920e",
+      "sha256": "081601848eae98589c74176682b47a521aca3df736b390f1c53cdd769d92ddaa",
       "errors": []
     },
     {
@@ -129,7 +129,7 @@
     {
       "path": "midi/z6503-dark-cinematic-drones-contrast/z6503-dark-cinematic-drones-contrast-combined.mid",
       "bytes": 3067,
-      "sha256": "2633818223f84d1c38c827cdbbb64ac3fcf5324c9750480ef6be189600ea711c",
+      "sha256": "d07739ec879ad0a52c4c7dec648464a38e2cd9628d237845b50a32462134b98c",
       "errors": []
     },
     {
@@ -152,8 +152,8 @@
     },
     {
       "path": "midi/z6504-dark-cinematic-drones-return/principal_motif.mid",
-      "bytes": 470,
-      "sha256": "d2f114fe2170a031ece169585001d97011af5b40c22f4293649ad4271f441351",
+      "bytes": 471,
+      "sha256": "6e55feb1723a316eaed6fd3b57a3e5d6b02b8d55fb87abe1a7523b6790bb2d23",
       "errors": []
     },
     {
@@ -170,8 +170,8 @@
     },
     {
       "path": "midi/z6504-dark-cinematic-drones-return/z6504-dark-cinematic-drones-return-combined.mid",
-      "bytes": 3067,
-      "sha256": "33b8b0a7b9b5762df9f433b774d19adcb1ac9b3867038f06c7d8797684e35fe3",
+      "bytes": 3068,
+      "sha256": "68b97a8e5f1ce063cea3e5256b1ba0dea0a8eaeee20ea068ef6fc0b516a9d3d0",
       "errors": []
     }
   ],

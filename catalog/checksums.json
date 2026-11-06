@@ -54,7 +54,7 @@
     {
       "path": "catalog/clip-index.csv",
       "bytes": 1820,
-      "sha256": "a2c859553bdede98f02b485fc784ac73611e9ae45b0d944cc754ced6e6f61fd3"
+      "sha256": "e8eb0a2326ca2933cc36e9f0996806f2f1439578012c0575dfd0fd848ac0eb46"
     },
     {
       "path": "catalog/drum-map.csv",
@@ -68,8 +68,8 @@
     },
     {
       "path": "catalog/note-events.csv",
-      "bytes": 48804,
-      "sha256": "8b6afbc53c9aa0ff47704d0c009eeec707ba1a4ba6c0a709b4a4938089414069"
+      "bytes": 48806,
+      "sha256": "938040a489c26dd32410c82144a2a0cfc0b66bcafd0b6ddcbaebf4d83f471cfc"
     },
     {
       "path": "catalog/patch-recipes.json",
@@ -94,7 +94,7 @@
     {
       "path": "checks/build-metadata.json",
       "bytes": 381,
-      "sha256": "4a8848c61a8efef5897543cf369db1c7abb1e0f87afbcd3ac9bd628e2f9ee1a8"
+      "sha256": "a15627f5aec10aaa20f77fbc661a362b4c29fb40f79d5219b447e118ddd9af36"
     },
     {
       "path": "checks/clip-validation.json",
@@ -108,88 +108,88 @@
     },
     {
       "path": "checks/media-validation.json",
-      "bytes": 462,
-      "sha256": "96e442960d4e4ecb459c3eacba4abcd2a1b70cf47cd25c33dd86f20d6da3cdd1"
+      "bytes": 518,
+      "sha256": "f0ec3b11c7b8a4f4525b8eaa6c19aaa7d8bff400a45578c257d01cdf9b8e7c05"
     },
     {
       "path": "clips/z6501-melody-01.mid",
       "bytes": 121,
-      "sha256": "1008e234f7c0914087f19dd2658d04c6590d2fa890baf80de3459d979176cdf8"
+      "sha256": "9af094f628f988a2d4650acbc6c8dc704bc2fa456079ede1fa003da71c8d4da6"
     },
     {
       "path": "clips/z6501-melody-02.mid",
-      "bytes": 121,
-      "sha256": "046338c4b796b6d979757745861d6bb0d02238418dec47483259ff4a36a27c01"
+      "bytes": 120,
+      "sha256": "9f1d3a124b21daad5248ba91c6f342799761c94a9b7b2384592626b7bb011305"
     },
     {
       "path": "clips/z6501-melody-03.mid",
-      "bytes": 91,
-      "sha256": "b025c0025302c4147f4476a4d84a2e7576e7af8fd039c869a1a8034679fd1c58"
+      "bytes": 90,
+      "sha256": "c8d541b62030bfce0767295e40edb008e39f63bccae2f632d619b984a9308b5a"
     },
     {
       "path": "clips/z6501-melody-04.mid",
-      "bytes": 91,
-      "sha256": "8644241c3643cc72eb6ad5d6f6b6f2326acad49d0ecf0260e0034acdcad55ecd"
+      "bytes": 90,
+      "sha256": "8dc48e880cb64849359e0f8ad9942623ab4c12bbd3733e7ba13dfdee1cbaab45"
     },
     {
       "path": "clips/z6502-melody-01.mid",
-      "bytes": 120,
-      "sha256": "f091e9e8eb4b9afe82d28edd18bc307d74dc6c03591b0b416bcaa58cca5911e9"
+      "bytes": 121,
+      "sha256": "888fe3dc519b069424164f4f1c2aa46395051d046a75f37a9ed46830ac194619"
     },
     {
       "path": "clips/z6502-melody-02.mid",
-      "bytes": 120,
-      "sha256": "d1a1fc8addc31c20d154da8a789c894fa83137c47bcb6323bb244c9fbc2758fe"
+      "bytes": 121,
+      "sha256": "24cc20031f191dfaf23f298054aac9b87d21b74b9f8f2856d4f47c17011e55af"
     },
     {
       "path": "clips/z6502-melody-03.mid",
       "bytes": 91,
-      "sha256": "1ce796601e0c04d7c27c1691775beb9f5c91d00d8987475a8001a8b71eafc4b2"
+      "sha256": "15a0f9c97172b5b047b7307f3634ba2137a4f756d66fa3a56e7a3da512e807ee"
     },
     {
       "path": "clips/z6502-melody-04.mid",
       "bytes": 91,
-      "sha256": "b5a983a19fd8d02f0fe6717ce2ed270bac6b01b214bb9feffd878a7a7d290a09"
+      "sha256": "791d64397e816e6c570dc1b113569ed6f20b4be6deb58b449351a4287aa51252"
     },
     {
       "path": "clips/z6503-melody-01.mid",
       "bytes": 120,
-      "sha256": "3d0cb662865b3120a72e0b8815d9e81952f989523882dd727b12473f29132f92"
+      "sha256": "5944149c9567f616f4206e8424684bbfc9c5bc07a4d2a9a370f4f770c414fcbb"
     },
     {
       "path": "clips/z6503-melody-02.mid",
       "bytes": 120,
-      "sha256": "36e414a49f2bdb891caf7b4dfafc26de18b1488358ed96198afddeb2341dbeee"
+      "sha256": "46ac33e9f6437245adc307c623377d540f801d883f986646410d6dae6ff1f9e5"
     },
     {
       "path": "clips/z6503-melody-03.mid",
       "bytes": 91,
-      "sha256": "e5c0ed9ba97bd5cc930993e61b94a470b6c9f55948628692ec8d767ff643bec8"
+      "sha256": "2507a013aee75d9fc6e728d7b4b6724d21a490c5892bf1e70c3cfea798ccd2b5"
     },
     {
       "path": "clips/z6503-melody-04.mid",
       "bytes": 91,
-      "sha256": "6665ce5722a6f70c0739662ec4e947ef389de1ba963090d66424ac50fb1f8d28"
+      "sha256": "64715ea40cca4ead04f185c10a069501cfd43d7cedfb1131f1e3120a3542a7a3"
     },
     {
       "path": "clips/z6504-melody-01.mid",
-      "bytes": 120,
-      "sha256": "642cd2381f555bceb88cd577650e8d5498cc1d953bf8da9af2796c0e19887f7f"
+      "bytes": 121,
+      "sha256": "088a9612bff4bbe1a9d5b4452e2cace9d0361a7acf0d5c4a09b165d5c445f6e8"
     },
     {
       "path": "clips/z6504-melody-02.mid",
-      "bytes": 120,
-      "sha256": "b0cd112a26aef36578472a2c7e932f92b8976852a013456a61dbed0f43420349"
+      "bytes": 121,
+      "sha256": "7ede7a56a40354e5ed17225b6cb3ba48b186f47d1c30367a52a99b1c192aa397"
     },
     {
       "path": "clips/z6504-melody-03.mid",
       "bytes": 91,
-      "sha256": "02da07bf7471dc8bee56e1c520de0c83f3640dc62d248a6203233bffa9ea7a99"
+      "sha256": "8a0d960078a9b784739d9c0b15deeef03c6c6a49b507c96bc1f9bc834413c9dc"
     },
     {
       "path": "clips/z6504-melody-04.mid",
       "bytes": 91,
-      "sha256": "0dc2691905e6c07ebdcfd2527615ebf03369eede6af7d1116bf48e39ccc93a7e"
+      "sha256": "70d5bce11a4de2009c6502e7f90a3cdf33e877f8405dcaca25bcdf947f4d5246"
     },
     {
       "path": "delivery.md",
@@ -198,13 +198,13 @@
     },
     {
       "path": "downloads/dark-cinematic-drones-midi.zip",
-      "bytes": 24350,
-      "sha256": "b806294eee8c571b041e1fa6301a32672dac63c7e52f7517ef9c80e4a29b1273"
+      "bytes": 25051,
+      "sha256": "22ec8b63eb7a6b8f346276ed199e733243cdd5a943d12b2a381b9ac5334421b3"
     },
     {
       "path": "film/motion-note-roll.png",
-      "bytes": 2232,
-      "sha256": "d0245c4ceefc683e894ed2f8a96ec8be01b26572ca26028d05815e7c8397d252"
+      "bytes": 2246,
+      "sha256": "9b3865174726a736bdf9985c7439b02f70e11f6495c0810a7264f57d38f1a64c"
     },
     {
       "path": "film/motion-overlay.png",
@@ -218,8 +218,8 @@
     },
     {
       "path": "film/preview.mp4",
-      "bytes": 640511,
-      "sha256": "3f2b3ac8d96859d10248d38b31524ce402f8ecb68b422016062b20a10a2d135f"
+      "bytes": 626795,
+      "sha256": "0edd628f618f4b8fcb56c1a4aa1b09294f4977e17d95e9bdd0ecc01531d611e2"
     },
     {
       "path": "film/preview.vtt",
@@ -228,13 +228,13 @@
     },
     {
       "path": "film/video-manifest.json",
-      "bytes": 1217,
-      "sha256": "d6eae8d1dae21007986877a8cb4e96a09d67ec9fcf49362f9d6fecb806303e4f"
+      "bytes": 1243,
+      "sha256": "d61308b893a1ba51a6113630c245b8d4c95b5cb8f6f8b47214dd455be023d219"
     },
     {
       "path": "index.html",
-      "bytes": 9946,
-      "sha256": "8ad83cb595fa8ec5fb7611252a68043b6bfd50f788bf8a59ac16b031dede8c36"
+      "bytes": 10159,
+      "sha256": "fa8f33c0be2c0c9c4f027111e5e04747a7355614fd23faac671b68b61050f251"
     },
     {
       "path": "midi/z6501-dark-cinematic-drones-opening/chord_pulse.mid",
@@ -254,7 +254,7 @@
     {
       "path": "midi/z6501-dark-cinematic-drones-opening/principal_motif.mid",
       "bytes": 491,
-      "sha256": "f67b814b3b825e03d592eebf5f6408b61b69248c2eae03a786e9f56baabd50cc"
+      "sha256": "7e30f3f052bbe0eec811420441312b624601ab6865565f881e2d467ce3ede4b2"
     },
     {
       "path": "midi/z6501-dark-cinematic-drones-opening/sub_bass.mid",
@@ -269,7 +269,7 @@
     {
       "path": "midi/z6501-dark-cinematic-drones-opening/z6501-dark-cinematic-drones-opening-combined.mid",
       "bytes": 3088,
-      "sha256": "8b5a6c45b909d75e1a8e5a3a5ce2c2c3c24b89f58e47d9ca4759ffe037654290"
+      "sha256": "0935e0af75ba6a6ec7a68ca24233beaea6c997172523d0a14c1167af38eb62aa"
     },
     {
       "path": "midi/z6502-dark-cinematic-drones-variation/chord_pulse.mid",
@@ -288,8 +288,8 @@
     },
     {
       "path": "midi/z6502-dark-cinematic-drones-variation/principal_motif.mid",
-      "bytes": 490,
-      "sha256": "6a7f4657d0aa0bd1e649ed48c2d63bbff74de0555cae5ba7172be60ab890f93c"
+      "bytes": 491,
+      "sha256": "812499bcdef561f2a517ccd762113b658ba08098fd917caabb475b9db33d299f"
     },
     {
       "path": "midi/z6502-dark-cinematic-drones-variation/sub_bass.mid",
@@ -303,8 +303,8 @@
     },
     {
       "path": "midi/z6502-dark-cinematic-drones-variation/z6502-dark-cinematic-drones-variation-combined.mid",
-      "bytes": 3087,
-      "sha256": "bdaa0764859675cc96d1ffc6945e569ec2bf9562d785d82afd3b79ba08d5a642"
+      "bytes": 3088,
+      "sha256": "684fe314def2bfd86ac58169936672d6b1f6de05a78ab5581765c8d76a7cd3db"
     },
     {
       "path": "midi/z6503-dark-cinematic-drones-contrast/chord_pulse.mid",
@@ -324,7 +324,7 @@
     {
       "path": "midi/z6503-dark-cinematic-drones-contrast/principal_motif.mid",
       "bytes": 470,
-      "sha256": "d3dd1d49ed555d5cc02f8ea13bb066c4d08d84fe13d28a05a55c928ae9bb920e"
+      "sha256": "081601848eae98589c74176682b47a521aca3df736b390f1c53cdd769d92ddaa"
     },
     {
       "path": "midi/z6503-dark-cinematic-drones-contrast/sub_bass.mid",
@@ -339,7 +339,7 @@
     {
       "path": "midi/z6503-dark-cinematic-drones-contrast/z6503-dark-cinematic-drones-contrast-combined.mid",
       "bytes": 3067,
-      "sha256": "2633818223f84d1c38c827cdbbb64ac3fcf5324c9750480ef6be189600ea711c"
+      "sha256": "d07739ec879ad0a52c4c7dec648464a38e2cd9628d237845b50a32462134b98c"
     },
     {
       "path": "midi/z6504-dark-cinematic-drones-return/chord_pulse.mid",
@@ -358,8 +358,8 @@
     },
     {
       "path": "midi/z6504-dark-cinematic-drones-return/principal_motif.mid",
-      "bytes": 470,
-      "sha256": "d2f114fe2170a031ece169585001d97011af5b40c22f4293649ad4271f441351"
+      "bytes": 471,
+      "sha256": "6e55feb1723a316eaed6fd3b57a3e5d6b02b8d55fb87abe1a7523b6790bb2d23"
     },
     {
       "path": "midi/z6504-dark-cinematic-drones-return/sub_bass.mid",
@@ -373,23 +373,28 @@
     },
     {
       "path": "midi/z6504-dark-cinematic-drones-return/z6504-dark-cinematic-drones-return-combined.mid",
-      "bytes": 3067,
-      "sha256": "33b8b0a7b9b5762df9f433b774d19adcb1ac9b3867038f06c7d8797684e35fe3"
+      "bytes": 3068,
+      "sha256": "68b97a8e5f1ce063cea3e5256b1ba0dea0a8eaeee20ea068ef6fc0b516a9d3d0"
     },
     {
       "path": "preview/dark-cinematic-drones-simple-synth-preview.mp3",
       "bytes": 2573627,
-      "sha256": "142a7102b0d0930519eb224564668fab2e8a9e381815070001abec89182f3ea3"
+      "sha256": "6f8f7f3d44d930729c199a96d8e99ed04d036947532aa4988013f42a474b50cc"
     },
     {
       "path": "preview/preview-manifest.json",
       "bytes": 1174,
-      "sha256": "e4c3c389d056a70200f349686940d50547e5307c41c4423f526fca8f6fd6552b"
+      "sha256": "97e244b8900437e75170eb841927b07c09214ac174eb112830624f0907cdb988"
     },
     {
       "path": "README.md",
-      "bytes": 3965,
-      "sha256": "7f42376e4ee23f5358ed0c51e6eb5c1512de1cefb2d5c9b07952aefe27211c13"
+      "bytes": 4131,
+      "sha256": "9a09e0934ffa3b6f727602591a1f4ba92933d7be2adcce8f899af7f2ebaaf129"
+    },
+    {
+      "path": "REVISION.md",
+      "bytes": 459,
+      "sha256": "3eacf0353039d04726de89d5e30850da6403bf4512bef6bf71ca90ebfdb2ee1f"
     },
     {
       "path": "social/instagram/caption.txt",
@@ -423,8 +428,8 @@
     },
     {
       "path": "tools/build_release.py",
-      "bytes": 147463,
-      "sha256": "c692d41432c4d2932319ff9ad118ba1316a1d8d8bb058790337649670fc3af2d"
+      "bytes": 147892,
+      "sha256": "c1f5f27a26283b75750a11be07e6f255c82b6f9b28f58697320ac9a2ffd46986"
     },
     {
       "path": "tools/polish_release.py",
