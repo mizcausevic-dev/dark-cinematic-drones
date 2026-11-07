@@ -198,8 +198,8 @@
     },
     {
       "path": "downloads/dark-cinematic-drones-midi.zip",
-      "bytes": 25051,
-      "sha256": "22ec8b63eb7a6b8f346276ed199e733243cdd5a943d12b2a381b9ac5334421b3"
+      "bytes": 26460,
+      "sha256": "a33bb76540e89d27209c10a1bf84ae0da232defaa03672256d16b8b625a7dffc"
     },
     {
       "path": "film/motion-note-roll.png",
@@ -233,8 +233,8 @@
     },
     {
       "path": "index.html",
-      "bytes": 10159,
-      "sha256": "fa8f33c0be2c0c9c4f027111e5e04747a7355614fd23faac671b68b61050f251"
+      "bytes": 10349,
+      "sha256": "5999711e432cfa7b11933016a9d5899b50c778da369ff67fe1ef3d90a72818c7"
     },
     {
       "path": "midi/z6501-dark-cinematic-drones-opening/chord_pulse.mid",
@@ -377,6 +377,11 @@
       "sha256": "68b97a8e5f1ce063cea3e5256b1ba0dea0a8eaeee20ea068ef6fc0b516a9d3d0"
     },
     {
+      "path": "MIDI-BUYER-LICENSE-v1.0.txt",
+      "bytes": 1652,
+      "sha256": "1111ca6dd4ca4ff4163f199fae341ff54ca3715acc3cf19ca332f2f6e58c36c9"
+    },
+    {
       "path": "preview/dark-cinematic-drones-simple-synth-preview.mp3",
       "bytes": 2573627,
       "sha256": "6f8f7f3d44d930729c199a96d8e99ed04d036947532aa4988013f42a474b50cc"
@@ -388,8 +393,8 @@
     },
     {
       "path": "README.md",
-      "bytes": 4131,
-      "sha256": "9a09e0934ffa3b6f727602591a1f4ba92933d7be2adcce8f899af7f2ebaaf129"
+      "bytes": 4246,
+      "sha256": "9ae33bb44d9b796d2eac43edba655f50a493a78b4bd2536bd7c212398143ce0a"
     },
     {
       "path": "REVISION.md",
